@@ -1,4 +1,4 @@
-=== italia ===
+=== Italia ===
 
 Contributors: codeat
 Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
@@ -13,7 +13,7 @@ A starter theme called italia.
 
 == Description ==
 
-A Wordpress theme which implements the Italia Design System
+A Wordpress starter theme which implements the Italia Design System.
 
 == Installation ==
 
@@ -29,7 +29,7 @@ italia includes support for Infinite Scroll in Jetpack.
 
 == Changelog ==
 
-= 1.0 - May 12 2015 =
+= 1.0 - Feb 01 2018 =
 * Initial release
 
 == Credits ==
