@@ -1,7 +1,8 @@
 /* File: gulpfile.js */
 
 // Init Gulp packages
-var gulp  = require('gulp'),
+var url = 'localhost:8080',
+    gulp  = require('gulp'),
     browserSync = require('browser-sync').create(),
     cleanCSS = require('gulp-clean-css'),
     rename = require('gulp-rename'),
@@ -10,7 +11,7 @@ var gulp  = require('gulp'),
 // Static server
 gulp.task('browser-sync', function() {
     browserSync.init({
-        proxy: 'localhost:8080'
+        proxy: url
     });
 });
 
