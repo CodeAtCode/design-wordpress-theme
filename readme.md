@@ -8,7 +8,7 @@ Italia WordPress Theme includes support for Infinite Scroll in Jetpack.
 
 ## Changelog ##
 
-# 1.0 - Feb 01 2018 #
+### 1.0 - Feb 01 2018 ###
 * Initial release
 
 ## Credits ##
