@@ -117,7 +117,7 @@ add_action( 'widgets_init', 'italia_widgets_init' );
  * Enqueue scripts and styles.
  */
 function italia_scripts() {
-	wp_enqueue_style( 'italia-style', get_stylesheet_uri() );
+	wp_enqueue_style( 'italia-style', get_template_directory_uri() . '/style.min.css' );
 
 	wp_enqueue_script( 'italia-navigation', get_template_directory_uri() . '/js/navigation.js', array(), '20151215', true );
 
